@@ -1,0 +1,79 @@
+.navbar{
+    background-color: #F1F3FF;
+    font-family: Helvetica;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.section-1{
+    margin-top: 85px;
+    padding-left: 135px;
+    background-color: #F1F3FF;
+    font-family: Helvetica;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.logo{
+    background-color: #0D28A6;
+    width: 100px;
+    height: 34px;
+    margin-left: 75px;
+}
+h1{
+    font-size:36px;
+}
+
+.section-2{
+    margin-top: 100px;
+    font-family: Helvetica;
+}
+h3{
+    font-size: 24px;
+}
+p{
+    font-size: 14px;
+}
+.check-blue{
+    color: #0D28A6;
+    background-color: #CFD4ED;
+}
+.rounded-blue{
+    background-color: #0D28A6;
+    width: 360px;
+    height: 360px;
+    margin-top: 68px;
+}
+.section-3{
+    margin-top: 100px;
+}
+.ellipse{
+    width: 32px;
+    height: 32px;
+    margin-top: 24px;
+    margin-left:24px;
+    padding-top: 2px;
+}
+h5{
+    font-size: 16px;
+}
+.section-4{
+    margin-top: 100px;
+}
+
+.banner{
+    background-color: #0D28A6;
+}
+
+.section-5{
+    margin-top: 100px; 
+}
+
+.dropdown{
+    size: 50px;
+}
+
+footer{
+    margin-top: 150px;
+}
